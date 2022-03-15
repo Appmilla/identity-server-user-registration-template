@@ -6,7 +6,7 @@
     <title>IdentityServer ASP.NET Core Identity User Registration</title>
     <description>An .Net CLI template to create an Identity Server with ASP.Net Core Identity enabling registration, login and logout, using an SQLite database</description>
     <projectUrl>https://github.com/Appmilla/identity-server-user-registration-template</projectUrl>
-    <repository type="git" url="https://github.com/Appmilla/identity-server-user-registration-template.git" branch="main" commit="e1c65e4524cd70ee6e22abe33e6cb6ec73938cb3" />
+    <repository type="git" url="https://github.com/Appmilla/identity-server-user-registration-template.git" branch="main" />
     <license type="expression">MIT</license>
     <releaseNotes>Initial release</releaseNotes> 
     <tags>IdentityServer ASP.NET</tags>
