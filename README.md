@@ -20,3 +20,5 @@ To create a new IdentityServer host project use :
 dotnet new isuserreg -n YOUR_NAME_FOR_THE_SERVER
 
 Running the project should display the Duende IdentityServer page on port 5001
+
+The Identity Server supports registering a user, login and logout with a variety of clients including PKCE.
