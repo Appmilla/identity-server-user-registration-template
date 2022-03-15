@@ -1,6 +1,8 @@
 # identity-server-user-registration-template
 .Net CLI template for Identity Server with ASP.Net Core Identity
 
+the nuget package is available at :- https://www.nuget.org/packages/Appmilla.IdentityUserReg/1.0.0
+
 IdentityServer v6 with ASP.Net Core Identity for user registration and focus on mobile client using PKCE OAuth 2.0 flow.
 
 An overview video with a demo can be found at https://youtu.be/U4WXru88NCQ
