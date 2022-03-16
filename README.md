@@ -9,6 +9,7 @@ An overview video with a demo can be found at https://youtu.be/U4WXru88NCQ
 
 Example clients can be found in this repo:- https://github.com/Appmilla/identity-server-user-registration-example
 
+To install the template from the nuget package:-
 dotnet new -i Appmilla.IdentityUserReg.1.0.0.nupkg
 
 The installed template should be listed like this:-
