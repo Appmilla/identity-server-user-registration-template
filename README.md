@@ -1,5 +1,4 @@
-# identity-server-user-registration-template
-.Net CLI template for Identity Server with ASP.Net Core Identity
+# .Net CLI template for Identity Server with ASP.Net Core Identity
 
 IdentityServer v6 with ASP.Net Core Identity for user registration and focus on mobile client using PKCE OAuth 2.0 flow.
 
