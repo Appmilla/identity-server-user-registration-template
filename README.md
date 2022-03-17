@@ -9,6 +9,8 @@ An overview video with a demo can be found at https://youtu.be/U4WXru88NCQ
 
 Example clients can be found in this repo:- https://github.com/Appmilla/identity-server-user-registration-example
 
+This is built using .Net 6.0, I've tested this using Visual Studio 2022 on Windows and Rider EAP on MacOS https://www.jetbrains.com/rider/nextversion/
+
 To install the template from the nuget package:-
 dotnet new --install Appmilla.IdentityUserReg::1.0.0
 
