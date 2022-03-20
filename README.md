@@ -1,5 +1,4 @@
-# identity-server-user-registration-template
-.Net CLI template for Identity Server with ASP.Net Core Identity
+# .Net CLI template for Identity Server with ASP.Net Core Identity
 
 IdentityServer v6 with ASP.Net Core Identity for user registration and focus on mobile client using PKCE OAuth 2.0 flow.
 
@@ -9,8 +8,10 @@ An overview video with a demo can be found at https://youtu.be/U4WXru88NCQ
 
 Example clients can be found in this repo:- https://github.com/Appmilla/identity-server-user-registration-example
 
+This is built using .Net 6.0, I've tested this using Visual Studio 2022 on Windows and Rider EAP on MacOS https://www.jetbrains.com/rider/nextversion/
+
 To install the template from the nuget package:-
-dotnet new -i Appmilla.IdentityUserReg.1.0.0.nupkg
+dotnet new --install Appmilla.IdentityUserReg::1.0.0
 
 The installed template should be listed like this:-
 
